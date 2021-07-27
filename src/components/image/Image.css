@@ -1,0 +1,17 @@
+.img-caption {
+    font-weight: lighter;
+}
+
+.img {
+    border-radius: 25px;
+    width: 90vw;
+}
+
+.img-lg-ctr {
+    border-radius: 25px;
+}
+
+.img-lg-rt {
+    display: inline-block;
+    margin-right: 0px;
+}
