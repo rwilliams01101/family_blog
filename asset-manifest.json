@@ -1,25 +1,28 @@
 {
   "files": {
-    "main.css": "/family_blog/static/css/main.be618019.chunk.css",
-    "main.js": "/family_blog/static/js/main.7ae73d79.chunk.js",
-    "main.js.map": "/family_blog/static/js/main.7ae73d79.chunk.js.map",
-    "runtime-main.js": "/family_blog/static/js/runtime-main.3970f0c8.js",
-    "runtime-main.js.map": "/family_blog/static/js/runtime-main.3970f0c8.js.map",
+    "main.css": "/family_blog/static/css/main.a111ca54.chunk.css",
+    "main.js": "/family_blog/static/js/main.63e0df23.chunk.js",
+    "main.js.map": "/family_blog/static/js/main.63e0df23.chunk.js.map",
+    "runtime-main.js": "/family_blog/static/js/runtime-main.c3d13f38.js",
+    "runtime-main.js.map": "/family_blog/static/js/runtime-main.c3d13f38.js.map",
     "static/js/2.26f5c288.chunk.js": "/family_blog/static/js/2.26f5c288.chunk.js",
     "static/js/2.26f5c288.chunk.js.map": "/family_blog/static/js/2.26f5c288.chunk.js.map",
-    "static/js/3.553f53ff.chunk.js": "/family_blog/static/js/3.553f53ff.chunk.js",
-    "static/js/3.553f53ff.chunk.js.map": "/family_blog/static/js/3.553f53ff.chunk.js.map",
+    "static/js/3.dca4b203.chunk.js": "/family_blog/static/js/3.dca4b203.chunk.js",
+    "static/js/3.dca4b203.chunk.js.map": "/family_blog/static/js/3.dca4b203.chunk.js.map",
     "index.html": "/family_blog/index.html",
-    "static/css/main.be618019.chunk.css.map": "/family_blog/static/css/main.be618019.chunk.css.map",
+    "static/css/main.a111ca54.chunk.css.map": "/family_blog/static/css/main.a111ca54.chunk.css.map",
     "static/js/2.26f5c288.chunk.js.LICENSE.txt": "/family_blog/static/js/2.26f5c288.chunk.js.LICENSE.txt",
     "static/media/Amdal_1.a136c634.jpg": "/family_blog/static/media/Amdal_1.a136c634.jpg",
+    "static/media/Kjerag_1.189bb216.jpg": "/family_blog/static/media/Kjerag_1.189bb216.jpg",
     "static/media/Kvanndalfoss_1.8a43087b.jpg": "/family_blog/static/media/Kvanndalfoss_1.8a43087b.jpg",
+    "static/media/Preikestolen_1.496c04d5.jpg": "/family_blog/static/media/Preikestolen_1.496c04d5.jpg",
+    "static/media/Sauda_1.7195e9a7.jpg": "/family_blog/static/media/Sauda_1.7195e9a7.jpg",
     "static/media/App.css": "/family_blog/static/media/background_short.ea78f193.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.3970f0c8.js",
+    "static/js/runtime-main.c3d13f38.js",
     "static/js/2.26f5c288.chunk.js",
-    "static/css/main.be618019.chunk.css",
-    "static/js/main.7ae73d79.chunk.js"
+    "static/css/main.a111ca54.chunk.css",
+    "static/js/main.63e0df23.chunk.js"
   ]
 }
