@@ -4,7 +4,7 @@ import './Image.css';
 function Image(props) {
   return (
     <>
-        <img src={props.src} className={props.classes} alt={props.altText} id={props.id} />
+        <img src={props.src} className={props.classes} alt={props.altText} id={props.id}/>
     </>
   );
 }
