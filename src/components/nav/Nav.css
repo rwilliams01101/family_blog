@@ -10,3 +10,7 @@
 .navbar-light {
     background-color: rgb(229, 238, 233) !important;
 }
+
+.tighten-logo {
+    margin-right: -3px;
+}
