@@ -6,7 +6,7 @@ function Nav () {
         <>
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
                 <div className="container-fluid">
-                    <a className="navbar-brand navbar-main-font" href="/"> <span className="tighten-logo">🌜</span>amille & <span className="tighten-logo">🌲</span>lan</a>
+                    <a className="navbar-brand navbar-main-font" href="/"> <span className="tighten-c">🌜</span>amille & <span className="tighten-a">🌲</span>lan</a>
                     <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                     </ul>
                     <span className="navbar-text">

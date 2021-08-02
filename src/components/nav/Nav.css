@@ -11,6 +11,10 @@
     background-color: rgb(229, 238, 233) !important;
 }
 
-.tighten-logo {
+.tighten-a {
     margin-right: -3px;
+}
+
+.tighten-c {
+    margin-right: -5px;
 }
