@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/family_blog/static/css/main.77d1c678.chunk.css",
-    "main.js": "/family_blog/static/js/main.6f2b6b77.chunk.js",
-    "main.js.map": "/family_blog/static/js/main.6f2b6b77.chunk.js.map",
+    "main.css": "/family_blog/static/css/main.1e8de55e.chunk.css",
+    "main.js": "/family_blog/static/js/main.f96c3c04.chunk.js",
+    "main.js.map": "/family_blog/static/js/main.f96c3c04.chunk.js.map",
     "runtime-main.js": "/family_blog/static/js/runtime-main.c3d13f38.js",
     "runtime-main.js.map": "/family_blog/static/js/runtime-main.c3d13f38.js.map",
     "static/js/2.26f5c288.chunk.js": "/family_blog/static/js/2.26f5c288.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.dca4b203.chunk.js": "/family_blog/static/js/3.dca4b203.chunk.js",
     "static/js/3.dca4b203.chunk.js.map": "/family_blog/static/js/3.dca4b203.chunk.js.map",
     "index.html": "/family_blog/index.html",
-    "static/css/main.77d1c678.chunk.css.map": "/family_blog/static/css/main.77d1c678.chunk.css.map",
+    "static/css/main.1e8de55e.chunk.css.map": "/family_blog/static/css/main.1e8de55e.chunk.css.map",
     "static/js/2.26f5c288.chunk.js.LICENSE.txt": "/family_blog/static/js/2.26f5c288.chunk.js.LICENSE.txt",
     "static/media/Amdal_1.a136c634.jpg": "/family_blog/static/media/Amdal_1.a136c634.jpg",
     "static/media/Kjerag_1.189bb216.jpg": "/family_blog/static/media/Kjerag_1.189bb216.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.c3d13f38.js",
     "static/js/2.26f5c288.chunk.js",
-    "static/css/main.77d1c678.chunk.css",
-    "static/js/main.6f2b6b77.chunk.js"
+    "static/css/main.1e8de55e.chunk.css",
+    "static/js/main.f96c3c04.chunk.js"
   ]
 }
