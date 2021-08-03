@@ -16,7 +16,7 @@ function Nav () {
             <Router>
                 <nav className="navbar navbar-expand-lg navbar-light bg-light">
                     <div className="container-fluid">
-                        <Link className="navbar-brand" to="/family_blog"><span className="tighten-c">🌜</span>amille & <span className="tighten-a">🌲</span>lan</Link>
+                        <Link className="navbar-brand" onClick={Collapse} to="/family_blog"><span className="tighten-c">🌜</span>amille & <span className="tighten-a">🌲</span>lan</Link>
                         <button className="navbar-toggler" id="hamburger-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                         </button>
