@@ -16,14 +16,14 @@ function Nav () {
             <Router>
                 <nav className="navbar navbar-expand-lg navbar-light bg-light">
                     <div className="container-fluid">
-                        <Link className="navbar-brand" to="/"><span className="tighten-c">🌜</span>amille & <span className="tighten-a">🌲</span>lan</Link>
+                        <Link className="navbar-brand" to="/family_blog"><span className="tighten-c">🌜</span>amille & <span className="tighten-a">🌲</span>lan</Link>
                         <button className="navbar-toggler" id="hamburger-toggle" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                         </button>
                         <div className="collapse navbar-collapse" id="navbarText">
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                             <li className="nav-item">
-                                <Link className="nav-link" id="test" onClick={Collapse} to="/">Home</Link>
+                                <Link className="nav-link" onClick={Collapse} to="/family_blog">Home</Link>
                             </li>
                             <li className="nav-item">
                                 <Link className="nav-link" onClick={Collapse} to="/about">About</Link>
@@ -48,7 +48,7 @@ function Nav () {
                     <Route path="/blogpost">
                         <Blogpost />
                     </Route>
-                    <Route path="/">
+                    <Route path="/family_blog">
                         <Home />
                     </Route>
                 </Switch>
