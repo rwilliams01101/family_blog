@@ -5,7 +5,7 @@ function Blogpost() {
     return (
         <>
             <h2>Blogpost</h2>
-            <Image src={underConstruction} classes="" altText="Under Construction, coming Christmas 2002."></Image>
+            <Image src={underConstruction} classes="img img-lg-ctr" altText="Under Construction, coming Christmas 2002."></Image>
         </>
         )
   }

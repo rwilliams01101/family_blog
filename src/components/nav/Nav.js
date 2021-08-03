@@ -5,7 +5,7 @@ import {
     Link
   } from "react-router-dom";
 import '../nav/Nav.css'
-import Collapse from "./Test";
+import Collapse from "./Collapse";
 import Home from '../../routes/Home'
 import About from '../../routes/About'
 import Blogpost from "../../routes/Blogpost";
