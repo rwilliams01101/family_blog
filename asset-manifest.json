@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/family_blog/static/css/main.4e6b38fc.chunk.css",
-    "main.js": "/family_blog/static/js/main.292ce175.chunk.js",
-    "main.js.map": "/family_blog/static/js/main.292ce175.chunk.js.map",
+    "main.js": "/family_blog/static/js/main.873fbce5.chunk.js",
+    "main.js.map": "/family_blog/static/js/main.873fbce5.chunk.js.map",
     "runtime-main.js": "/family_blog/static/js/runtime-main.c636da34.js",
     "runtime-main.js.map": "/family_blog/static/js/runtime-main.c636da34.js.map",
-    "static/js/2.7e50e68d.chunk.js": "/family_blog/static/js/2.7e50e68d.chunk.js",
-    "static/js/2.7e50e68d.chunk.js.map": "/family_blog/static/js/2.7e50e68d.chunk.js.map",
+    "static/js/2.52a9e520.chunk.js": "/family_blog/static/js/2.52a9e520.chunk.js",
+    "static/js/2.52a9e520.chunk.js.map": "/family_blog/static/js/2.52a9e520.chunk.js.map",
     "static/js/3.8c1df273.chunk.js": "/family_blog/static/js/3.8c1df273.chunk.js",
     "static/js/3.8c1df273.chunk.js.map": "/family_blog/static/js/3.8c1df273.chunk.js.map",
     "index.html": "/family_blog/index.html",
     "static/css/main.4e6b38fc.chunk.css.map": "/family_blog/static/css/main.4e6b38fc.chunk.css.map",
-    "static/js/2.7e50e68d.chunk.js.LICENSE.txt": "/family_blog/static/js/2.7e50e68d.chunk.js.LICENSE.txt",
+    "static/js/2.52a9e520.chunk.js.LICENSE.txt": "/family_blog/static/js/2.52a9e520.chunk.js.LICENSE.txt",
     "static/media/Amdal_1.a136c634.jpg": "/family_blog/static/media/Amdal_1.a136c634.jpg",
     "static/media/Kjerag_1.189bb216.jpg": "/family_blog/static/media/Kjerag_1.189bb216.jpg",
     "static/media/Kvanndalfoss_1.8a43087b.jpg": "/family_blog/static/media/Kvanndalfoss_1.8a43087b.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c636da34.js",
-    "static/js/2.7e50e68d.chunk.js",
+    "static/js/2.52a9e520.chunk.js",
     "static/css/main.4e6b38fc.chunk.css",
-    "static/js/main.292ce175.chunk.js"
+    "static/js/main.873fbce5.chunk.js"
   ]
 }
