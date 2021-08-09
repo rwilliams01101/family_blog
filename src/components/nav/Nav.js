@@ -42,7 +42,7 @@ function Nav () {
                     <Route path="/about">
                         <About />
                     </Route>
-                    <Route path="/blogpost">
+                    <Route path="/blogpost/*">
                         <Blogpost />
                     </Route>
                     <Route path="/family_blog">
