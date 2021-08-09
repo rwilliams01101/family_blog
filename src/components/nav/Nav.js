@@ -11,6 +11,9 @@ import About from '../../routes/About'
 import Blogpost from "../../routes/Blogpost";
 
 function Nav () {
+
+    const blogId = window.location.toString().split("/")[4];
+
     return(
         <>
             <Router>
@@ -43,7 +46,7 @@ function Nav () {
                         <About />
                     </Route>
                     <Route path="/blogpost/*">
-                        <Blogpost />
+                        <Blogpost blogId={blogId} />
                     </Route>
                     <Route path="/family_blog">
                         <Home />

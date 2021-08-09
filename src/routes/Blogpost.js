@@ -2,9 +2,8 @@ import Image from '../components/image/Image'
 import Text from '../components/text/Text'
 import { Blogpost_Values } from '../utils/AppConstants'
 
-function Blogpost() {
+function Blogpost({ blogId }) {
 
-    const blogId = window.location.toString().split("/")[4];
     const blogEntries = [];
 
     for(let i=0; i<Blogpost_Values.length; i++) {
