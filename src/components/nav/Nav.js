@@ -28,9 +28,6 @@ function Nav () {
                             <li className="nav-item">
                                 <Link className="nav-link" onClick={Collapse} to="/about">About</Link>
                             </li>
-                            <li className="nav-item">
-                                <Link className="nav-link" onClick={Collapse} to="/blogpost">Blog Post</Link>
-                            </li>
                         </ul>
                         <span className="navbar-text">
                             <a className="nav-link" href="mailto:rwilliams01101@gmail.com?subject=Just%20Saying%20Hi&amp;body=Let us know what's new with you! If you want to come visit us in Norway, just let us know when and you can stay with us. We can't wait to hear from you! - Camille and Alan">
