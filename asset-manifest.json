@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/family_blog/static/css/main.4e6b38fc.chunk.css",
-    "main.js": "/family_blog/static/js/main.7ba31fda.chunk.js",
-    "main.js.map": "/family_blog/static/js/main.7ba31fda.chunk.js.map",
+    "main.js": "/family_blog/static/js/main.d815344b.chunk.js",
+    "main.js.map": "/family_blog/static/js/main.d815344b.chunk.js.map",
     "runtime-main.js": "/family_blog/static/js/runtime-main.c636da34.js",
     "runtime-main.js.map": "/family_blog/static/js/runtime-main.c636da34.js.map",
     "static/js/2.7e50e68d.chunk.js": "/family_blog/static/js/2.7e50e68d.chunk.js",
@@ -23,7 +23,6 @@
     "static/media/Arrival_8.061db638.jpg": "/family_blog/static/media/Arrival_8.061db638.jpg",
     "static/media/Fleuriaults_1.eb55785a.jpg": "/family_blog/static/media/Fleuriaults_1.eb55785a.jpg",
     "static/media/Kjerag_1.189bb216.jpg": "/family_blog/static/media/Kjerag_1.189bb216.jpg",
-    "static/media/Kvanndalfoss_1.8a43087b.jpg": "/family_blog/static/media/Kvanndalfoss_1.8a43087b.jpg",
     "static/media/Preikestolen_1.496c04d5.jpg": "/family_blog/static/media/Preikestolen_1.496c04d5.jpg",
     "static/media/Sauda_1.7195e9a7.jpg": "/family_blog/static/media/Sauda_1.7195e9a7.jpg",
     "static/media/Sauda_10.65c56ac0.jpg": "/family_blog/static/media/Sauda_10.65c56ac0.jpg",
@@ -47,6 +46,6 @@
     "static/js/runtime-main.c636da34.js",
     "static/js/2.7e50e68d.chunk.js",
     "static/css/main.4e6b38fc.chunk.css",
-    "static/js/main.7ba31fda.chunk.js"
+    "static/js/main.d815344b.chunk.js"
   ]
 }
