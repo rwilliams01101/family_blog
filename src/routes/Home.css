@@ -1,5 +1,9 @@
 .read-more {
-    color: black;
+    color: green;
     text-decoration: none;
-    font-weight: lighter;
-  }  
+}
+
+.read-more:hover {
+  color: black;
+  text-decoration: underline;
+}

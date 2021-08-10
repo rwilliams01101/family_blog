@@ -4,6 +4,7 @@ import Text from '../components/text/Text'
 import { Link } from "react-router-dom";
 import { Preview_Values } from '../utils/AppConstants'
 import StoreLocally from '../utils/StoreLocally'
+import './Home.css'
 
 function Home(props) {
 
@@ -15,11 +16,11 @@ function Home(props) {
                     <Text classes="tight-caption" content={Preview_Values[i].altText}></Text>
                     <Text classes="blog-entry" content={Preview_Values[i].blogEntry}></Text>
                     <Link className="read-more" to={"/blogpost"} value={Preview_Values[i].id} onClick={()=>StoreLocally(value.id)}>Read full post</Link>
-                    <hr />
+                    <div className="hr-line"></div>
                 </div>
             ))}
         </>
     )
   }
 
-export default Home;
+export default Home

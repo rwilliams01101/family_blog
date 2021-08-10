@@ -3,12 +3,12 @@ import {
     Switch,
     Route,
     Link
-  } from "react-router-dom";
+  } from "react-router-dom"
 import '../nav/Nav.css'
-import Collapse from "../../utils/Collapse";
+import Collapse from "../../utils/Collapse"
 import Home from '../../routes/Home'
 import About from '../../routes/About'
-import Blogpost from "../../routes/Blogpost";
+import Blogpost from "../../routes/Blogpost"
 
 function Nav () {
 
@@ -55,5 +55,5 @@ function Nav () {
     )
 }
 
-export default Nav;
+export default Nav
 

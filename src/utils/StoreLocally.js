@@ -1,6 +1,7 @@
+// I know this isn't good, but building an SPA on gitpages made me cheat a bit
+
 function StoreLocally(blogId) {
-    console.log("Blog id ", blogId)
-    localStorage.setItem('blogPostNumber', blogId.toString());
-};
+    localStorage.setItem('blogPostNumber', blogId.toString())
+}
 
 export default StoreLocally

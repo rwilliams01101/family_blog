@@ -1,5 +1,6 @@
 import Image from '../components/image/Image'
 import underConstruction from '../assets/images/under_construction.png'
+import './About.css'
 
 function About() {
     return (
@@ -10,4 +11,4 @@ function About() {
     ) 
   }
 
-export default About;
+export default About

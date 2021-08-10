@@ -1,6 +1,6 @@
 import Nav from '../nav/Nav'
 import Footer from '../footer/Footer'
-import './App.css';
+import './App.css'
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <Nav></Nav>
       <Footer classes="footer" />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App

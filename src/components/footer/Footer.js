@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 import '../footer/Footer.css'
 
 function Footer(props) {
@@ -6,7 +6,7 @@ function Footer(props) {
     <>
         <footer className={props.classes}>{props.content}</footer>
     </>
-  );
+  )
 }
 
-export default Footer;
+export default Footer

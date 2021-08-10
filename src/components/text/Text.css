@@ -2,6 +2,15 @@
     margin-top: 0.45em;
     font-weight: lighter;
 }
+@media screen and (min-width: 768px) {
+    .tight-caption {
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 0.45em;
+        font-weight: lighter;
+        width: 45vw;
+    }
+  }
 
 .blog-entry {
     font-weight: 600;
@@ -9,4 +18,9 @@
     margin-right: auto;
     margin-left: auto;
     width: 90vw;
+}
+@media screen and (min-width: 768px) {
+    .blog-entry {
+        width: 75vw;
+    }
 }
