@@ -14,6 +14,16 @@ function Blogpost() {
         }
     }
 
+    if(blogEntries.length === 0 ) {
+        return (
+            <>
+                <div style={{padding: 1 + "em"}}>
+                    <h1>We haven't finished this post yet (but we will soon).</h1>
+                </div>
+            </>
+        )
+    }
+
     return (
         <>
              {blogEntries.map((value, i) => (
