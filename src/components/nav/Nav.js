@@ -6,7 +6,6 @@ import {
   } from "react-router-dom";
 import '../nav/Nav.css'
 import Collapse from "../../utils/Collapse";
-import StoreLocally from "../../utils/StoreLocally";
 import Home from '../../routes/Home'
 import About from '../../routes/About'
 import Blogpost from "../../routes/Blogpost";
@@ -45,7 +44,7 @@ function Nav () {
                         <About />
                     </Route>
                     <Route path="/blogpost">
-                        <Blogpost value="" />
+                        <Blogpost />
                     </Route>
                     <Route path="/family_blog">
                         <Home />
