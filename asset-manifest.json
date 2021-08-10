@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/family_blog/static/css/main.4e6b38fc.chunk.css",
-    "main.js": "/family_blog/static/js/main.c9a36299.chunk.js",
-    "main.js.map": "/family_blog/static/js/main.c9a36299.chunk.js.map",
-    "runtime-main.js": "/family_blog/static/js/runtime-main.c636da34.js",
-    "runtime-main.js.map": "/family_blog/static/js/runtime-main.c636da34.js.map",
-    "static/js/2.d773adcd.chunk.js": "/family_blog/static/js/2.d773adcd.chunk.js",
-    "static/js/2.d773adcd.chunk.js.map": "/family_blog/static/js/2.d773adcd.chunk.js.map",
-    "static/js/3.8c1df273.chunk.js": "/family_blog/static/js/3.8c1df273.chunk.js",
-    "static/js/3.8c1df273.chunk.js.map": "/family_blog/static/js/3.8c1df273.chunk.js.map",
+    "main.css": "/family_blog/static/css/main.1c294a84.chunk.css",
+    "main.js": "/family_blog/static/js/main.82828117.chunk.js",
+    "main.js.map": "/family_blog/static/js/main.82828117.chunk.js.map",
+    "runtime-main.js": "/family_blog/static/js/runtime-main.82a1e442.js",
+    "runtime-main.js.map": "/family_blog/static/js/runtime-main.82a1e442.js.map",
+    "static/js/2.6597430b.chunk.js": "/family_blog/static/js/2.6597430b.chunk.js",
+    "static/js/2.6597430b.chunk.js.map": "/family_blog/static/js/2.6597430b.chunk.js.map",
+    "static/js/3.49e85dd0.chunk.js": "/family_blog/static/js/3.49e85dd0.chunk.js",
+    "static/js/3.49e85dd0.chunk.js.map": "/family_blog/static/js/3.49e85dd0.chunk.js.map",
     "index.html": "/family_blog/index.html",
-    "static/css/main.4e6b38fc.chunk.css.map": "/family_blog/static/css/main.4e6b38fc.chunk.css.map",
-    "static/js/2.d773adcd.chunk.js.LICENSE.txt": "/family_blog/static/js/2.d773adcd.chunk.js.LICENSE.txt",
+    "static/css/main.1c294a84.chunk.css.map": "/family_blog/static/css/main.1c294a84.chunk.css.map",
+    "static/js/2.6597430b.chunk.js.LICENSE.txt": "/family_blog/static/js/2.6597430b.chunk.js.LICENSE.txt",
     "static/media/Amdal_1.a136c634.jpg": "/family_blog/static/media/Amdal_1.a136c634.jpg",
     "static/media/Arrival_1.2bc3610c.jpg": "/family_blog/static/media/Arrival_1.2bc3610c.jpg",
     "static/media/Arrival_2.115cb1b6.jpg": "/family_blog/static/media/Arrival_2.115cb1b6.jpg",
@@ -43,9 +43,9 @@
     "static/media/under_construction.693e5028.png": "/family_blog/static/media/under_construction.693e5028.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c636da34.js",
-    "static/js/2.d773adcd.chunk.js",
-    "static/css/main.4e6b38fc.chunk.css",
-    "static/js/main.c9a36299.chunk.js"
+    "static/js/runtime-main.82a1e442.js",
+    "static/js/2.6597430b.chunk.js",
+    "static/css/main.1c294a84.chunk.css",
+    "static/js/main.82828117.chunk.js"
   ]
 }
