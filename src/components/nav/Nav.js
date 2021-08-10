@@ -5,14 +5,13 @@ import {
     Link
   } from "react-router-dom";
 import '../nav/Nav.css'
-import Collapse from "./Collapse";
+import Collapse from "../../utils/Collapse";
+import StoreLocally from "../../utils/StoreLocally";
 import Home from '../../routes/Home'
 import About from '../../routes/About'
 import Blogpost from "../../routes/Blogpost";
 
 function Nav () {
-
-    const blogId = window.location.toString().split("/")[4];
 
     return(
         <>
@@ -45,8 +44,8 @@ function Nav () {
                     <Route path="/about">
                         <About />
                     </Route>
-                    <Route path="/blogpost/*">
-                        <Blogpost blogId={blogId} />
+                    <Route path="/blogpost">
+                        <Blogpost value="" />
                     </Route>
                     <Route path="/family_blog">
                         <Home />
