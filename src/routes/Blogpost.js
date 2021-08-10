@@ -16,14 +16,14 @@ function Blogpost() {
     return (
         <>
         <h1>Something here</h1>
-             {blogEntries.map((value, i) => (
+             {/* {blogEntries.map((value, i) => (
                 <div key={blogEntries[i].id}>
                     <Image src={blogEntries[i].src} classes={blogEntries[i].classes} altText={blogEntries[i].altText}></Image>
                     <Text classes="tight-caption" content={blogEntries[i].altText}></Text>
                     <Text classes="blog-entry" content={blogEntries[i].blogEntry}></Text>
                     <hr />
                 </div>
-            ))}
+            ))} */}
         </>
     )
   }
