@@ -1,7 +1,7 @@
-import Image from '../components/image/Image'
-import Text from '../components/text/Text'
-import { Blogpost_Values } from '../utils/AppConstants'
-import './Blogpost.css'
+import Image from '../image/Image'
+import Text from '../text/Text'
+import { Blogpost_Values } from '../../utils/AppConstants'
+import './BlogPreview.css'
 
 
 function Blogpost() {

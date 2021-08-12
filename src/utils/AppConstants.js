@@ -26,6 +26,23 @@ import imageTwentyFive from '../assets/images/Sauda_12.jpg'
 import imageTwentySix from '../assets/images/Sauda_13.jpg'
 import imageTwentySeven from '../assets/images/Sauda_14.jpg'
 import imageTwentyEight from '../assets/images/Sauda_15.jpg'
+import imageTwentyNine from '../assets/images/Amdal_2.JPEG'
+import imageThirty from '../assets/images/Amdal_3.jpg'
+import imageThirtyOne from '../assets/images/Amdal_4.JPEG'
+import imageThirtyTwo from '../assets/images/Amdal_5.jpg'
+import imageThirtyThree from '../assets/images/Amdal_6.jpg'
+import imageThirtyFour from '../assets/images/Preikestolen_2.jpeg'
+import imageThirtyFive from '../assets/images/Preikestolen_3.JPG'
+import imageThirtySix from '../assets/images/Preikestolen_4.jpeg'
+import imageThirtySeven from '../assets/images/Preikestolen_5.JPG'
+import imageThirtyEight from '../assets/images/Preikestolen_6.jpeg'
+import imageThirtyNine from '../assets/images/Preikestolen_7.JPG'
+import imageForty from '../assets/images/Preikestolen_8.JPG'
+import imageFortyOne from '../assets/images/Preikestolen_9.JPG'
+import imageFortyTwo from '../assets/images/Preikestolen_10.JPG'
+import imageFortyThree from '../assets/images/Preikestolen_12.JPG'
+import imageFortyFour from '../assets/images/Preikestolen_13.JPG'
+
 
 // This is a placeholder until the database is built.
 export const Preview_Values = [
@@ -38,7 +55,6 @@ export const Preview_Values = [
 ];
 
 export const Blogpost_Values = [
-
   // Preview 1
   { src: `${imageTwo}`, classes: "img img-lg-ctr", altText: "Waiting to board the plane…", id: "1", blogEntry: "On Thursday, July 8th, Camille’s parents dropped us off at a hotel near the Bordeaux airport, where we spent a (short) night…  Up at 3:45 to get to the airport as soon as it opened. While we had all of our paperwork for travelling, the constant change of rules for border crossing had us a little anxious... And for a reason. The first airline worker we spoke to was not aware of the most recent changes and asked us for paperwork and covid tests to board… We had neither. Luckily, we had printed official instructions the day before and we were able to go through within a couple of minutes. After boarding the plane, around 6h00, all went smoothly until our arrival in Stavanger, including our layover in Amsterdam. In Stavanger, we encountered some issues with the police agents, who were not aware that American citizens married to a European citizen were allowed in Norway. Alan had to show every single paper we had brought to prove he was moving to Sauda and not a tourist on vacation… The police chief was involved, and after 20 min (which seemed to last hours for us…), we finally went through. This was it, welcome to Norway !!!", previewValue: "1"},
   { src: `${imageThree}`, classes: "img img-lg-ctr", altText: "We are in Norway!", id: "2", blogEntry: "Unlike what we were told, it was not raining at all, although the sun didn’t come out to greet us.", previewValue: "1"},
@@ -63,4 +79,25 @@ export const Blogpost_Values = [
   { src: `${imageTwentyFive}`, classes: "img img-lg-ctr", id: "19", previewValue: "2"},
   { src: `${imageTwentySix}`, classes: "img img-lg-ctr", id: "20", previewValue: "2"},
   { src: `${imageTwentySeven}`, classes: "img img-lg-ctr", id: "21", previewValue: "2"},
+
+  // Preview 3
+  { src: `${imageThirty}`, classes: "img img-lg-ctr", altText: "Hytte (plur. Hytta) means cabin in Norwegian.", id: "21", blogEntry: "Here in Sauda, and apparently in most of Norway, many people own a cabin, where they go to on weekends or for their vacation. The cabins are usually outside of cities, in quieter, scenic areas. Some are fully equipped and very much look like a regular house, although most are rustic, some without electricity or running water.", previewValue: "3"},
+  { src: `${imageThirtyOne}`, classes: "img img-lg-ctr", id: "21", blogEntry: "The valleys of Saudasjorden are full of these small wooden cabins that people go to,  in order to take a break from their every day lives, enjoy the piece and quiet of the mountains. There is not always a road leading up to them, so you may have to hike, or sometimes boat your way to your hytte. We totally have the hytta fever and cannot wait to enjoy this tradition ourselves.", previewValue: "3"},
+  { src: `${imageTwentyNine}`, classes: "img img-lg-ctr", id: "21", previewValue: "3"},
+  { src: `${imageThirtyTwo}`, classes: "img img-lg-ctr", id: "21", previewValue: "3"},
+  { src: `${imageThirtyThree}`, classes: "img img-lg-ctr", id: "21", previewValue: "3"},
+
+  // Preview 5
+  { src: `${imageThirtyFour}`, classes: "img img-lg-ctr", id: "21", blogEntry: "Preikestolen is one of Norway’s most famous hikes. Preikestolen, which means the « preacher’s chair », is a flat surface at the top of a huge granite cliff formed by a glacier some 10,000 years ago. It was one of the first destinations we found when looking up hiking in Norway. So when we had to go to Stavanger for our residency paperwork, it was an easy decision to stay a bit longer and hike to Preikestolen. Without a car, we had to book a bus round trip from Stavanger to the trailhead. While a bit pricy, this was really convenient. We left our Airbnb at around 9:30 in the morning, we found this wonderful bakery called Kanelsnurren (we have been there 3 times now…) and hope on the bus. The ride was only 45 minutes long, and we hit the trail at about 11am.", previewValue: "5"},
+  { src: `${imageFortyTwo}`, classes: "img img-lg-ctr", id: "21", blogEntry: "The way up was wonderful. We had a bit of company but covid has its upsides and we definitely didn’t experience the crowds described online. After a good hour uphill workout through forest, rock fields and marsh, we suddenly came up a really large valley and realized for the first time how deep the fjord is.", previewValue: "5"},
+  { src: `${imageThirtyFive}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
+  { src: `${imageThirtySix}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
+  { src: `${imageThirtySeven}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
+  { src: `${imageThirtyEight}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
+  { src: `${imageThirtyNine}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
+  { src: `${imageForty}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
+  { src: `${imageFortyOne}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
+  { src: `${imageFortyTwo}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
+  { src: `${imageFortyThree}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
+  { src: `${imageFortyFour}`, classes: "img img-lg-ctr", id: "21", previewValue: "5"},
 ]
