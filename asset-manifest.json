@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/family_blog/static/css/main.0c3e674d.chunk.css",
-    "main.js": "/family_blog/static/js/main.19f53d25.chunk.js",
-    "main.js.map": "/family_blog/static/js/main.19f53d25.chunk.js.map",
+    "main.css": "/family_blog/static/css/main.4862c9d3.chunk.css",
+    "main.js": "/family_blog/static/js/main.6481a582.chunk.js",
+    "main.js.map": "/family_blog/static/js/main.6481a582.chunk.js.map",
     "runtime-main.js": "/family_blog/static/js/runtime-main.fd69aa4b.js",
     "runtime-main.js.map": "/family_blog/static/js/runtime-main.fd69aa4b.js.map",
     "static/js/2.6597430b.chunk.js": "/family_blog/static/js/2.6597430b.chunk.js",
     "static/js/2.6597430b.chunk.js.map": "/family_blog/static/js/2.6597430b.chunk.js.map",
     "index.html": "/family_blog/index.html",
-    "static/css/main.0c3e674d.chunk.css.map": "/family_blog/static/css/main.0c3e674d.chunk.css.map",
+    "static/css/main.4862c9d3.chunk.css.map": "/family_blog/static/css/main.4862c9d3.chunk.css.map",
     "static/js/2.6597430b.chunk.js.LICENSE.txt": "/family_blog/static/js/2.6597430b.chunk.js.LICENSE.txt",
     "static/media/Amdal_1.a136c634.jpg": "/family_blog/static/media/Amdal_1.a136c634.jpg",
     "static/media/Amdal_2.e2619fe3.JPEG": "/family_blog/static/media/Amdal_2.e2619fe3.JPEG",
@@ -20,11 +20,10 @@
     "static/media/Arrival_2.115cb1b6.jpg": "/family_blog/static/media/Arrival_2.115cb1b6.jpg",
     "static/media/Arrival_3.97544dbb.jpg": "/family_blog/static/media/Arrival_3.97544dbb.jpg",
     "static/media/Arrival_4.7f8d384c.jpg": "/family_blog/static/media/Arrival_4.7f8d384c.jpg",
-    "static/media/Arrival_5.b3ce950c.jpg": "/family_blog/static/media/Arrival_5.b3ce950c.jpg",
     "static/media/Arrival_6.0d8ac1e5.jpg": "/family_blog/static/media/Arrival_6.0d8ac1e5.jpg",
-    "static/media/Arrival_7.e1c45ab2.jpg": "/family_blog/static/media/Arrival_7.e1c45ab2.jpg",
     "static/media/Arrival_8.061db638.jpg": "/family_blog/static/media/Arrival_8.061db638.jpg",
     "static/media/Fleuriaults_1.eb55785a.jpg": "/family_blog/static/media/Fleuriaults_1.eb55785a.jpg",
+    "static/media/Hovlandsnuten.7202c533.jpeg": "/family_blog/static/media/Hovlandsnuten.7202c533.jpeg",
     "static/media/Kjerag_1.189bb216.jpg": "/family_blog/static/media/Kjerag_1.189bb216.jpg",
     "static/media/Preikestolen_1.496c04d5.jpg": "/family_blog/static/media/Preikestolen_1.496c04d5.jpg",
     "static/media/Preikestolen_10.ee8a159a.JPG": "/family_blog/static/media/Preikestolen_10.ee8a159a.JPG",
@@ -53,13 +52,13 @@
     "static/media/Sauda_7.904edf23.jpg": "/family_blog/static/media/Sauda_7.904edf23.jpg",
     "static/media/Sauda_8.54058d5e.jpg": "/family_blog/static/media/Sauda_8.54058d5e.jpg",
     "static/media/Sauda_9.478778fd.jpg": "/family_blog/static/media/Sauda_9.478778fd.jpg",
-    "static/media/App.css": "/family_blog/static/media/background_short.ea78f193.png",
+    "static/media/App.css": "/family_blog/static/media/background_short.3ae65f51.png",
     "static/media/under_construction.693e5028.png": "/family_blog/static/media/under_construction.693e5028.png"
   },
   "entrypoints": [
     "static/js/runtime-main.fd69aa4b.js",
     "static/js/2.6597430b.chunk.js",
-    "static/css/main.0c3e674d.chunk.css",
-    "static/js/main.19f53d25.chunk.js"
+    "static/css/main.4862c9d3.chunk.css",
+    "static/js/main.6481a582.chunk.js"
   ]
 }
