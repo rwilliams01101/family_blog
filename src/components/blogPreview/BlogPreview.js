@@ -1,42 +1,25 @@
-import Image from '../image/Image'
-import Text from '../text/Text'
-import { Blogpost_Values } from '../../utils/AppConstants'
+import React from 'react'
+import { Link } from "react-router-dom";
+import Image from '../../components/image/Image'
+import Text from '../../components/text/Text'
+import { Preview_Values } from '../../utils/AppConstants'
+import StoreLocally from '../../utils/StoreLocally'
 import './BlogPreview.css'
 
-
-function Blogpost() {
-
-    // I know this isn't good, but building an SPA on gitpages made me cheat a bit
-    const value = localStorage.getItem('blogPostNumber');
-    const blogEntries = [];
-
-    for(let i=0; i<Blogpost_Values.length; i++) {
-        if(Blogpost_Values[i].previewValue === value) {
-            blogEntries.push(Blogpost_Values[i]);
-        }
-    }
-
-    if(blogEntries.length === 0 ) {
-        return (
-            <>
-                <div style={{padding: 1 + "em"}}>
-                    <h1>We haven't finished this post yet (but we will soon).</h1>
-                </div>
-            </>
-        )
-    }
+function BlogPreview(props) {
 
     return (
         <>
-             {blogEntries.map((value, i) => (
-                <div key={blogEntries[i].id}>
-                    <Image src={blogEntries[i].src} classes={blogEntries[i].classes} altText={blogEntries[i].altText}></Image>
-                    <Text classes="tight-caption" content={blogEntries[i].altText}></Text>
-                    <Text classes="blog-entry" content={blogEntries[i].blogEntry}></Text>
+            {Preview_Values.map((value, i) => (
+                <div className="preview-wrapper" key={Preview_Values[i].id}>
+                    <Image src={Preview_Values[i].src} classes={Preview_Values[i].classes} altText={Preview_Values[i].altText}></Image>
+                    <Text classes="tight-caption" content={Preview_Values[i].altText}></Text>
+                    <Text classes="blog-entry" content={Preview_Values[i].blogEntry}></Text>
+                    <Link className="read-more" to={"/blogpost"} value={Preview_Values[i].id} onClick={()=>StoreLocally(value.id)}>Read full post</Link>
                 </div>
             ))}
         </>
     )
   }
 
-export default Blogpost
+export default BlogPreview
