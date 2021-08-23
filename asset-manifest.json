@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/family_blog/static/css/main.4862c9d3.chunk.css",
+    "main.css": "/family_blog/static/css/main.df8c12a7.chunk.css",
     "main.js": "/family_blog/static/js/main.6481a582.chunk.js",
     "main.js.map": "/family_blog/static/js/main.6481a582.chunk.js.map",
     "runtime-main.js": "/family_blog/static/js/runtime-main.fd69aa4b.js",
@@ -8,7 +8,7 @@
     "static/js/2.6597430b.chunk.js": "/family_blog/static/js/2.6597430b.chunk.js",
     "static/js/2.6597430b.chunk.js.map": "/family_blog/static/js/2.6597430b.chunk.js.map",
     "index.html": "/family_blog/index.html",
-    "static/css/main.4862c9d3.chunk.css.map": "/family_blog/static/css/main.4862c9d3.chunk.css.map",
+    "static/css/main.df8c12a7.chunk.css.map": "/family_blog/static/css/main.df8c12a7.chunk.css.map",
     "static/js/2.6597430b.chunk.js.LICENSE.txt": "/family_blog/static/js/2.6597430b.chunk.js.LICENSE.txt",
     "static/media/Amdal_1.a136c634.jpg": "/family_blog/static/media/Amdal_1.a136c634.jpg",
     "static/media/Amdal_2.e2619fe3.JPEG": "/family_blog/static/media/Amdal_2.e2619fe3.JPEG",
@@ -58,7 +58,7 @@
   "entrypoints": [
     "static/js/runtime-main.fd69aa4b.js",
     "static/js/2.6597430b.chunk.js",
-    "static/css/main.4862c9d3.chunk.css",
+    "static/css/main.df8c12a7.chunk.css",
     "static/js/main.6481a582.chunk.js"
   ]
 }
