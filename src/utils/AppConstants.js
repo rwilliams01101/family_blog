@@ -44,19 +44,20 @@ import imageFortyThree from '../assets/images/Preikestolen_12.JPG'
 import imageFortyFour from '../assets/images/Preikestolen_13.JPG'
 import imageFortyFive from '../assets/images/Hovlandsnuten.jpeg'
 import imageFortySix from '../assets/images/Hovlandsnuten.jpeg'
-// import imageFortySeven from '../assets/images/Hovlandsnuten.jpeg'
-// import imageFortyEight from '../assets/images/Hovlandsnuten.jpeg'
-
+import imageFortySeven from '../assets/images/Jonestølen_1.jpg'
+import imageFortyEight from '../assets/images/Jonestølen_2.jpg'
+import imageFortyNine from '../assets/images/Jonestølen_3.jpg'
 
 // This is a placeholder until the database is built.
 export const Preview_Values = [
-    { src: `${imageOne}`, classes: "img img-lg-ctr", publishDate: "09.07.2021", altText: "Leaving France for Norway", id: "1", blogEntry: "After two lovely months spent in France, the Norway bells rang and it was time to say goodbye to Christian and Annick. We spent our last night in Saintes at the local brewery and at Le Batia restaurant, talked about travelling and enjoying our time together.", writtenBy:"Camille"},
-    { src: `${imageTwentyEight}`, classes: "img img-lg-ctr", publishDate: "12.07.2021", altText: "The town of Sauda", id: "2", blogEntry: "The name Sauda comes from the Old Norse “Sauðar”, the plural form of sauðr which means “spring” or “issue of water”. Sauda belongs to the Ryfylke district, and at larger scale, the Rogaland region (equivalent to a state in the US, or region in France). Sauda has approximately 4,500 inhabitants.", writtenBy:"Camille"},
-    { src: `${imageEleven}`, classes: "img img-lg-ctr", publishDate: "14.07.2021", altText: "Hyttes of Saudasjorden", id: "3", blogEntry: "We went on a hike with our neighbors, Cédrik, Sophie, and their daughter Anna. Came across these awesome hyttes (cabins) at the end of our trek. We unanimously decided to buy one as soon as possible.", writtenBy:"Camille"},
-    { src: `${imageTwelve}`, classes: "img img-lg-ctr", publishDate: "17.07.2021", altText: "Alan on the hike back from Kjerag", id: "4", blogEntry: "We had gorgeous weather the entire hike, right up until we arrived at Kjeragbolten, then everything fogged up.", writtenBy:"Alan"},
-    { src: `${imageThirteen}`, classes: "img img-lg-ctr", publishDate: "31.07.2021", altText: "The view near Preikestolen", id: "5", blogEntry: "After we finished the main hike, we kept climbing up. We found some awesome views and had the whole place to ourselves.", writtenBy:"Alan"},
-    { src: `${imageFourteen}`, classes: "img img-lg-ctr", publishDate: "16.07.2021", altText: "Biking in Sauda", id: "6", blogEntry: "Everywhere you go is uphill. It's always worth the effort though. This was our first ride through Sauda and halfway through our ride we relaxed at the bottom of a waterfall.", writtenBy:"Alan" },
-    { src: `${imageFortyFive}`, classes: "img img-lg-ctr", publishDate: "16.08.2021", altText: "Marking the trail to Hovlandsnuten", id: "7", blogEntry: "I recently started working with the Sauda Ferie og Fritid and it's pretty great. My “work” consists of hiking, drinking coffee, and eating blueberries. Occasionally I paint stuff.", writtenBy:"Alan" },
+  { src: `${imageOne}`, classes: "img img-lg-ctr", publishDate: "09.07.2021", altText: "Leaving France for Norway", id: "1", blogEntry: "After two lovely months spent in France, the Norway bells rang and it was time to say goodbye to Christian and Annick. We spent our last night in Saintes at the local brewery and at Le Batia restaurant, talked about travelling and enjoying our time together.", writtenBy:"Camille"},
+  { src: `${imageTwentyEight}`, classes: "img img-lg-ctr", publishDate: "12.07.2021", altText: "The town of Sauda", id: "2", blogEntry: "The name Sauda comes from the Old Norse “Sauðar”, the plural form of sauðr which means “spring” or “issue of water”. Sauda belongs to the Ryfylke district, and at larger scale, the Rogaland region (equivalent to a state in the US, or region in France). Sauda has approximately 4,500 inhabitants.", writtenBy:"Camille"},
+  { src: `${imageEleven}`, classes: "img img-lg-ctr", publishDate: "14.07.2021", altText: "Hyttes of Saudasjorden", id: "3", blogEntry: "We went on a hike with our neighbors, Cédrik, Sophie, and their daughter Anna. Came across these awesome hyttes (cabins) at the end of our trek. We unanimously decided to buy one as soon as possible.", writtenBy:"Camille"},
+  { src: `${imageTwelve}`, classes: "img img-lg-ctr", publishDate: "17.07.2021", altText: "Alan on the hike back from Kjerag", id: "4", blogEntry: "We had gorgeous weather the entire hike, right up until we arrived at Kjeragbolten, then everything fogged up.", writtenBy:"Alan"},
+  { src: `${imageThirteen}`, classes: "img img-lg-ctr", publishDate: "31.07.2021", altText: "The view near Preikestolen", id: "5", blogEntry: "After we finished the main hike, we kept climbing up. We found some awesome views and had the whole place to ourselves.", writtenBy:"Alan"},
+  { src: `${imageFourteen}`, classes: "img img-lg-ctr", publishDate: "16.07.2021", altText: "Biking in Sauda", id: "6", blogEntry: "Everywhere you go is uphill. It's always worth the effort though. This was our first ride through Sauda and halfway through our ride we relaxed at the bottom of a waterfall.", writtenBy:"Alan" },
+  { src: `${imageFortyFive}`, classes: "img img-lg-ctr", publishDate: "16.08.2021", altText: "Marking the trail to Hovlandsnuten", id: "7", blogEntry: "I recently started working with the Sauda Ferie og Fritid and it's pretty great. My “work” consists of hiking, drinking coffee, and eating blueberries. Occasionally I paint stuff.", writtenBy:"Alan" },
+  { src: `${imageFortySeven}`, classes: "img img-lg-ctr", publishDate: "14.08.2021", altText: "A great find - Jonestølen", id: "8", blogEntry: "I came here on my first project with Ferie og Fritid and instantly knew I would be spending a lot of time here. A waterfall cascades through the hills, keeping the blueberries happy and ends in a pristine lake in the valley below.", writtenBy:"Alan" },
 ];
 
 export const Blogpost_Values = [
@@ -107,4 +108,9 @@ export const Blogpost_Values = [
 
   // Preview 7
   { src: `${imageFortySix}`, classes: "img img-lg-ctr", id: "38", blogEntry: "Since arriving in Norway, we've been exploring every chance we get. With Allemannsretten allowing us access to nearly everything, I thought it might be helpful to work on the trails and get to know the area. I was right. Since starting trail work a couple weeks ago, we've discovered some amazing areas. So far the best is Jonestølen, which I'll detail in another post. It was the first place I hiked with Leif (pronounced life) who has been working on the trails for around 15 years. We usually go out on the trails every week to build paths, paint trail markers or install signs. I've always wanted to work on the trail systems, and I can't think of better place to start than Norway.", previewValue: "7"},
+
+  // Preview 8
+  { src: `${imageFortySeven}`, classes: "img img-lg-ctr", id: "39", blogEntry: "We came up here on Saturday to get away from the hustle and bustle of Sauda (pause for laughter). The hike up takes a little under two hours and winds up and up through the trees, flowers, and blueberries until ending at the hytta. We had a light rain on the way up, but still enough to soak my pants. Luckily there was a wool blanket inside, so I was able to make some very fashionable warm pants.", previewValue: "8"},
+  { src: `${imageFortyEight}`, classes: "img img-lg-ctr", id: "40", blogEntry: "Shortly after arriving, Camille was hard at work picking blueberries. After a few hours, it started to rain; Camille continued picking. By the time she had finally finished, we had so many we had to freeze a couple bags.", previewValue: "8"},
+  { src: `${imageFortyNine}`, classes: "img img-lg-ctr", id: "41", blogEntry: "I was exhausted from watching her work, so I decided to take a dip in the lake in the valley below Jonestølen. It was cold, but knowing that the fire in the wood stove was ready to welcome me back to the hytta made it a little easier.", previewValue: "8"},
 ]
